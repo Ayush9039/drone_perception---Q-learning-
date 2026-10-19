@@ -1,0 +1,212 @@
+{
+    "q_table": [
+        [
+            0.5,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            8.5387
+        ],
+        [
+            49.3852,
+            54.566,
+            82.6622
+        ]
+    ],
+    "state_labels": {
+        "0": "Low Traffic",
+        "1": "Medium Traffic",
+        "2": "High Traffic"
+    },
+    "action_labels": {
+        "0": "Maintain",
+        "1": "Expand View",
+        "2": "Alert/Focus"
+    },
+    "total_steps": 240,
+    "step_logs": [
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 1,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 2,
+            "reward": 10.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 0,
+            "reward": -5.0,
+            "next_state": 2
+        },
+        {
+            "state": 2,
+            "action": 0,
+            "reward": -5.0,
+            "next_state": 2
+        }
+    ]
+}
