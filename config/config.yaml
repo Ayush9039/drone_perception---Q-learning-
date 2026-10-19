@@ -1,0 +1,20 @@
+# ==============================================================================
+# PROJECT CONFIGURATION (Drone Perception System)
+# ==============================================================================
+
+model_params:
+  model_type: "yolov8n-seg.pt"  # Nano segment model jo fast aur accurate hai
+  epochs: 30                    # Baseline training ke liye 30 epochs kaafi hain
+  batch_size: 16
+  img_size: 640
+
+# Paths configuration (Colab training ke waqt in paths ko access karega)
+colab_paths:
+  dataset_dir: "/content/dataset"
+  drive_sync_dir: "/content/drive/MyDrive/drone_project/models"
+
+# Local test paths (VS Code me deployment/testing ke waqt use hoga)
+local_paths:
+  weights_path: "models/best.pt"
+  test_video: "test_videos/sample.mp4"
+  output_video: "test_videos/output_processed.mp4"
